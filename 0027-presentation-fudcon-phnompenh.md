@@ -1,5 +1,5 @@
 ---
-Title: Presentation: Atomic, FUDCon Phnom Penh
+Title: Presentation - Atomic, FUDCon Phnom Penh
 Date: 2016-11-08
 Category: Containers
 Tags: atomic, ostree, containers
